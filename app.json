@@ -9,7 +9,7 @@
     "repository": "https://github.com/pokurt/GitGram",
     "website": "https://github.com/pokurt/GitGram",
     "success_url": "https://t.me/GitGramChat",
-    "stack": "container",
+    "stack": "heroku-20",
     "env": {
         "ENV": {
             "description": "Fill this if you using environ variable as config.",
